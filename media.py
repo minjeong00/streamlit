@@ -10,15 +10,15 @@ st.image('https://images.unsplash.com/photo-1548407260-da850faa41e3?ixlib=rb-1.2
         caption='산에서 본 해돋이')
 
 
-st.header('2. Audio')
-# 오디오 주소: streamlit\MusicSample.mp3
-st.caption('음악 감상시간입니다.')
-st.audio('streamlit\MusicSample.mp3')
+# st.header('2. Audio')
+# # 오디오 주소: streamlit\MusicSample.mp3
+# st.caption('음악 감상시간입니다.')
+# st.audio('streamlit\MusicSample.mp3')
 
-st.header('3. Video')
-# 비디오 주소: streamlit\VideoSample.mp4
-st.caption('비디오 감상시간입니다.')
-st.video('streamlit\VideoSample.mp4')
+# st.header('3. Video')
+# # 비디오 주소: streamlit\VideoSample.mp4
+# st.caption('비디오 감상시간입니다.')
+# st.video('streamlit\VideoSample.mp4')
 
 
 # 파일실행: File > New > Terminal(anaconda prompt) → python -m streamlit run streamlit\2.media.py
