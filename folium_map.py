@@ -1,5 +1,5 @@
 # 이 파일은 실습 문제가 아닌 folium map 코딩 이해를 위한 파일로 모든 풀이가 에이블러에게 제공됩니다.
-
+pip install folium
 import streamlit as st
 import folium
 import pandas as pd
